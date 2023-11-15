@@ -1,3 +1,3 @@
 ## just4fun
 
-link: https://reclyed.github.io/cards-game/
+<a href="https://reclyed.github.io/cards-game/" target="_blank">LINK</a>
